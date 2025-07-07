@@ -25,13 +25,13 @@ div{
     justify-content: center;
     align-items: center;
     flex-flow: row wrap;
-    width: 60rem;
+    width: 650px;
     gap: 10px;
 }
 
 img{
-    width: 400px;
-    height: 200px;
+    width: 300px;
+    height: 150px;
     object-fit: cover;
     transition: 0.3s ease-in-out;
 }
