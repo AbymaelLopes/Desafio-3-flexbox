@@ -1,0 +1,1 @@
+- Galeria criada utilizando flexbox
